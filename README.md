@@ -1,2 +1,2 @@
 # test
-Learning GIT
+Learning GIT commands for my project.
